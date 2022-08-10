@@ -1,15 +1,24 @@
 h1{text-align: center;
 color: blue;
-border: 8px dotted cornflowerblue;
-padding: 25px;
+border: 10px dotted cornflowerblue;
+padding: left 20px;
+background-color: #9dafc6;
 
 }
 
-#idimagem principal
+body{background-color: rgb(185, 211, 211);
+
+}
 
 h2{text-align: center;
 color: #836fff;
 }
 
-h3{text-align: justify;
+p{text-align: justify; 
+
+}
+
+#imagem-principal {
+width: 600px;
+padding-left: 300px;
 }
